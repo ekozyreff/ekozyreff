@@ -1,4 +1,4 @@
-- :speech_balloon:  Hi, I’m Ernee.
+- :speech_balloon: I’m Ernee.
 - :man_teacher:  I work as a professor of Operations Research.
 - :bar_chart:  I’m interested in Mathematical Optimization and Data Science.
 - :books:  I’m currently learning Machine Learning.
