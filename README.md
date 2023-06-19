@@ -1,8 +1,6 @@
 - :speech_balloon: I’m Ernee.
-- :man_teacher:  I work as a professor of Operations Research.
+- :man_teacher:  I work as an Analytics Engineer at Klabin.
 - :bar_chart:  I’m interested in Mathematical Optimization and Data Science.
-- :books:  I’m currently learning Machine Learning.
-- :compass:  I’m looking to collaborate on ML projects.
 - :envelope:  How to reach me: ekozyreff@gmail.com.
 
 <!---
