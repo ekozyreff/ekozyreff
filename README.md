@@ -1,5 +1,5 @@
 - :speech_balloon: I’m Ernee.
-- :man_teacher:  I work as an Analytics Engineer at Klabin.
+- :man_teacher:  I work as an Analytics Engineer at Mercado Livre.
 - :bar_chart:  I’m interested in Mathematical Optimization and Data Science.
 - :envelope:  How to reach me: ekozyreff@gmail.com.
 
